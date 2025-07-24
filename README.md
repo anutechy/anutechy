@@ -4,6 +4,9 @@
   Making tech flow smoother — from code to automation to UI.
 </p>
 
+<p align="center">
+  <img src="https://github.com/anutechy/anutechy/blob/main/codevibeswithanu.png?raw=true" alt="Codevibes with Anu GitHub Banner" width="100%" />
+</p>
 ---
 
 ### ✨ Who Am I?
